@@ -1,0 +1,24 @@
+{
+  "name": "skillzchatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgss/skillzchatter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgss/skillzchatter/issues"
+  },
+  "homepage": "https://github.com/lgss/skillzchatter#readme",
+  "dependencies": {
+    "@slack/client": "^4.1.0",
+    "install": "^0.11.0",
+    "npm": "^5.8.0"
+  }
+}
